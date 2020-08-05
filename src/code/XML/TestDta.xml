@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE users SYSTEM "D:\java\Java学习\src\code\XML\users.dtd">
+<users>
+    <!--user的信息-->
+    <user id="u_001">
+        <username>
+            admin1
+        </username>
+        <password>
+            123456
+        </password>
+    </user>
+    <user id="u_002">
+        <username>
+            admin2
+        </username>
+        <password>
+            654321
+        </password>
+    </user>
+</users>
